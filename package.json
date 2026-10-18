@@ -42,13 +42,13 @@
     "prepare": "husky"
   },
   "overrides": {
-    "js-yaml": "^4.1.1",
+    "js-yaml": "^4.3.2",
     "@istanbuljs/load-nyc-config": {
       "js-yaml": "^4.1.1"
     }
   },
   "homepage": "https://github.com/mozilla/fx-private-relay#readme",
   "dependencies": {
-    "immutable": "^5.1.5"
+    "immutable": "^5.1.9"
   }
 }
