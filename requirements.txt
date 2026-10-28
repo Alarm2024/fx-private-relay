@@ -1,7 +1,7 @@
 boto3==1.43.10
 codetiming==1.4.0
-cryptography==48.0.0
-Django==5.2.14
+cryptography==50.0.0
+Django==5.2.17
 dj-database-url==3.1.2
 django-allauth[socialaccount]==65.16.1
 django-cors-headers==4.9.0
@@ -13,7 +13,7 @@ python-ipware==3.0.0  # 2.0.4, 2.0.5 break tests
 django-redis==6.0.0
 django-ftl==0.14
 django-referrer-policy==1.0
-djangorestframework==3.17.1
+djangorestframework==3.18.2
 django-waffle==5.0.0
 dockerflow==2026.3.4
 drf-spectacular==0.29.0
@@ -25,7 +25,7 @@ jwcrypto==1.5.7
 kinto-http==11.9.0
 markus[datadog]==5.2.0
 psycopg[c]==3.3.4
-PyJWT==2.12.1
+PyJWT==2.15.0
 python-decouple==3.8
 requests==2.34.2
 requests-oauthlib==2.0.0
